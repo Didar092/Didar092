@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Didar092
-- 👀 I’m interested in Web and app developing
+- 👀 I’m interested in Web developing
 - 🌱 I’m currently learning Java. Already have skills in Python.
-- 💞️ I’m looking to collaborate on Java project.
+- 💞️ I’m looking to collaborate on Java projects.
 - 📫 How to reach me ...
 
 <!---
